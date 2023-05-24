@@ -5,7 +5,7 @@
 Iniciei o projeto fazendo a separação da paleta de cores, imagem e formato de caixa que gostaria na página inicial, no topo da página inseri uma foto minha em HD em formato redondo com bordas coloridas, e também tópicos navegaveis e de interação com o usúario usando a tag hover.
 <h2>Usei o site https://palettes.shecodes.io/palettes para escolher minha paleta de cores favorita</h2>
   
-![Paleta utilizada :](https://github.com/beafromsea/projeto-pessoal/assets/133885373/9f868501-ae76-4f42-a50f-9b8ba1d7eec2)
+![Paleta utilizada:](https://github.com/beafromsea/projeto-pessoal/assets/133885373/9f868501-ae76-4f42-a50f-9b8ba1d7eec2)
 
 
 <h2>📃Página Inicial</h2>
