@@ -1,5 +1,5 @@
 <h1># projeto-pessoal<h1>
-Esse projeto foi desenvolvido no modulo 1 do curso 'Códigos do Amanhã', com intuito de ser um portfolio de apresentação pessoal
+<h2>Esse projeto foi desenvolvido no modulo 1 do curso 'Códigos do Amanhã', com intuito de ser um portfolio de apresentação pessoal</h2>
 
 <h2>🚀Começo do Projeto</h2>
 Iniciei o projeto fazendo uma separação de paleta de cores e formato de caixa que gostaria na página inicial, no topo da página inseri minha foto em formato redondo e com bordas, e também tópicos navegaveis e de interação com o usúario usando a tag hover
