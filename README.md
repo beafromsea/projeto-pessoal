@@ -9,9 +9,10 @@ Iniciei o projeto fazendo a separação da paleta de cores, imagem e formato de 
 
 
 <h2>📃Página Inicial</h2>
+  Fiz uma apresentação pessoal, focadas em minhas conquistas de trabalhos e estudos. Escolhi as fontes 'Special Elite' e 'Cutive Mono' pois elas apresentavam um design semelhante a de maquina de escrever, que me remete ao conteudo de true crime que gosto muito.
 
 <h2>🚢 Navegação</h2>
-Para as páginas da navegação utilizei um hover para interação com o usúrio para quando o mouse passase em cima da barra mudação de cor para chamar atenção e linkei as páginas do projeto em seus tópicos redirecionando o usuário para a página selecionada
+Para as páginas da navegação utilizei um hover para interação com o usúrio para quando o mouse passase em cima da barra mudasse de cor, para chamar atenção e tambem no texto para uma melhor visualização. Linkei as páginas do projeto em seus tópicos redirecionando o usuário para a página selecionada
 
 <h2>🎮Sobre Mim e Interesses</h2>
 Fiz um breve resumo sobre minha história e conhecimentos, também sobre meus interesses em jogos, música, animes, cinema, idiomas e cultura asiática
